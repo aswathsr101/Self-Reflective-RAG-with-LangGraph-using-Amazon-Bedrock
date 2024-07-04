@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-community
+boto3
+aws
+pandas
+numpy
+chromadb
+langchain-core
+langsmith
+langchainhub
+tiktoken
+langchain_community
