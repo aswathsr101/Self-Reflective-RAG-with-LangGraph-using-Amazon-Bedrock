@@ -11,3 +11,6 @@ langsmith
 langchainhub
 tiktoken
 langchain_community
+fmeval 
+tiktoken 
+langchain-aws 
